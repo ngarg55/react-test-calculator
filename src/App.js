@@ -15,8 +15,7 @@ export function App() {
             </header>
             
             <div className="app-solution">
-                {/* [We expect your solution to be here] */}
-                <Calculator></Calculator>
+                <Calculator/>
             </div>
         </div>
     );
